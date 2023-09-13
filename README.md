@@ -1,5 +1,4 @@
 # bike_sharing_analysis-
-# bike_sharing_analysis-
 Multiple linear regression model for the prediction of demand for shared bikes
 Case Study
 
